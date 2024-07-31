@@ -1,0 +1,4 @@
+name:xyz ,age: 20 , salary: 50000
+name:def ,age: 18 , salary: 90000
+name:xyz ,age: 20 , salary: 50000
+name:def ,age: 18 , salary: 90000

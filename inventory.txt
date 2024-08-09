@@ -1,3 +1,0 @@
-This is the automobile inventory.
-
-This inventory consis of various components.

@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 import numpy as np
 
-model = pickle.load(open("Pwskills_project/model.pkl",'rb'))
-df = pickle.load(open("Pwskills_project/main.pkl",'rb'))
+model = pickle.load(open("model.pkl",'rb'))
+df = pickle.load(open("main.pkl",'rb'))
 
 USERNAME = "user"
 PASSWORD = "password"

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oil-predictor",
+  "private_key_id": "f12e3a6dbd6404986d0185e093b4e60d6a9b691a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9fUh/H4bDgS4t\nQB2iwVoExs5T41lwzw0/kkPBwtiKLzJa622aFINcYCkg5zkrznx6lHjyW57NypXh\nl+6h7AlG/SQfhEfu9Iwjd8xW3Sx9GLCl8H7YES6tfukguGp4HcNil7kMzPKjoULl\nqjh8AiAQ6tsJfKBGY5gF232OSvgfxglYdbBnlGBekFIn5+oVrC1MZbZZeZTS6kut\n8+pgwARGlE3pAcK+2F8MY+neT5pMnS6lbY7AFBh9VvwDrBbGh2piVBVYHCA2awUV\npjnsZ4KGtClSCOeo8FwQ3ncJQx7U3m3hx7gmXDLJBsbQbU5v7ZTyjhlUspRNyEFh\n4fHQjIvTAgMBAAECggEAJBkq53TVEoeYiWxOeQQGpyRMiDSmhFQdfP/bQp1g7SpC\nmImDLrg7sixriWYjQRIsKpoAVINZxHCUjw6HmndB6TEuYYaswXv6+oLG/cFSyV4b\nwPEI6RaU4t5rgR1AwzNAVpb63NJqYvvEp8X+zrkE7NQg+DSyv9YXTv5ac/IaRMr8\nRG/qYBI7Nvi5GBW/jrsS5MBaw6Zetv1DLdh21cQJ1xdvERQiDJZzaSD525Xy6k8a\n20l27WnphldhEPYpAsGnK8gAeTfdcz98p2U3vGaE/kRvka8xeIkDkFbU455HJEs6\nCoPV9iwOFjjV9uredPuXy54j0Z6FZeg6+xEn+cfkYQKBgQDqudDtwXl1FtJGH7Mv\nWXf8djWMKjgBWjSulx1EABVg3mKE36zWiHjzANU46TA46GaFyESPwTVxHlFUqvrW\nRiLtAXQIbNrhiCigHuMzabts48tbx5HgLL3zjLdijPWoTeMb4DDkfee4eOCCqxXL\n+XlEzQ+/USsD5DzPG4kW45lSgwKBgQDOqeBZv1/5A6CZ3ckBbNvNmRRPF8FP8Ubn\n40bWUAo35hEOhBv1UnlsA0P+RNP0R/pvJ+nRJlgqVDKXaEqwQNsMgx1FoVQtadt2\nmaxtOdBpHW+lADUQD8d0R1PwfaHIaTOT/s2VtqTShKnR5jYpVQ0jcS1pNm99yQrS\nw2wg7fpgcQKBgDXxL/+Dp/rtnLM607387KMbM2EbzrUY2uSIm9QlxMP3N2Lb2GeR\nA2Ks/VNP26IoXm8+P+tddn+hfQVdKboWci5PWDAbfA26ccOidYo6MTVsAC7+ZRrE\njX6sBvTh+g6Mn7WnRvUrrhXpyYad9KtkkKbsDUNlTuJdEFB0PoQBGBorAoGAboa3\n8AfD4j+oYuIUoGiB3aFjFTHVN1YI3/fTaMcB0AeBU8wfz8I+IiBU+uYAnYLpUw17\npVnmiSziqcsjNsRY4oY034p6pJcawoFJkFj9N1qA3TQRLPfjajLDl7j5D2AEL8B0\nXv+Bgv1kfVer28sa7buX188/LXyaB0Jwz+O2pmECgYAE/YEgM1DKD0IwALfMdxtv\n1sUuWk2vGlksR616U30zff8/Rz/tzfT9+On2kHB0nfgLlHLtejILi9o40KjR7bDT\nX+2Ep1wrgv86CtD3G4CARnBMFcxGjDsXW8qiz+N9tyJONExEgA5Y/xEAbfJa7WBH\nBcMrZCeF94V608Vk3XXZgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bpkwn@oil-predictor.iam.gserviceaccount.com",
+  "client_id": "112531521191298792069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bpkwn%40oil-predictor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -11,7 +11,7 @@ df = pickle.load(open("Pwskills_project/main.pkl", 'rb'))
 
 # Initialize Firebase
 if not firebase_admin._apps:
-    cred = credentials.Certificate("oil-predictor-4fb9fbbcbec5.json")
+    cred = credentials.Certificate("Pwskills_project/oil-predictor-4fb9fbbcbec5.json")
     firebase_admin.initialize_app(cred)
 
 # Function to handle user login

@@ -7,7 +7,7 @@ from firebase_admin import credentials, auth
 
 # Load the model and data
 model = pickle.load(open("Pwskills_project/model.pkl", 'rb'))
-df = pickle.load(open("main.pkl", 'rb'))
+df = pickle.load(open("Pwskills_project/main.pkl", 'rb'))
 
 # Initialize Firebase
 if not firebase_admin._apps:

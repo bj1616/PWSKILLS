@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 **Usage**
 
 1. **Launch the Web App**:
-   - The app is deployed on Streamlit Cloud. You can access it .
+   - The app is deployed on Streamlit Cloud. You can access it https://pwskills-oilpriceprediction.streamlit.app/.
    
 2. **Predicting Oil Prices**:
    - After logging in, input the date, month, and year for which you want to predict the oil price.

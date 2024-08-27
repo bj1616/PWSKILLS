@@ -6,12 +6,12 @@ import firebase_admin
 from firebase_admin import credentials, auth
 
 # Load the model and data
-model = pickle.load(open("model.pkl", 'rb'))
-df = pickle.load(open("main.pkl", 'rb'))
+model = pickle.load(open("Pwskills_project/model.pkl", 'rb'))
+df = pickle.load(open("Pwskills_project/main.pkl", 'rb'))
 
 # Initialize Firebase
 if not firebase_admin._apps:
-    cred = credentials.Certificate("oil-predictor-4fb9fbbcbec5.json")
+    cred = credentials.Certificate("Pwskills_project/oil-predictor-4fb9fbbcbec5.json")
     firebase_admin.initialize_app(cred)
 
 # Function to handle user login
